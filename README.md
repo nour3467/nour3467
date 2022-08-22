@@ -1,7 +1,8 @@
 <img align="center" alt="Banner" width="400" src="https://drive.google.com/file/d/1My7K8LT47MbtMnaqOhul58yDdncPYVbj/view">
 <h1 align="center">Hi 👋, I'm Noureddine Ech-chouky</h1>
 <h3 align="center">A passionate Data Scientist from Morocco</h3>
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/uc?export=view&id=1My7K8LT47MbtMnaqOhul58yDdncPYVbj">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
+
 
 
 
