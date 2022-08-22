@@ -1,4 +1,4 @@
-<img align="center" alt="Banner" width="400" src='https://drive.google.com/uc?export=view&amp;id=1xP8ubY_08bbdK2nVNqQT4ctwLKVwd7Ex'>
+<a href="https://drive.google.com/uc?export=view&id=1xP8ubY_08bbdK2nVNqQT4ctwLKVwd7Ex "> <img src="https://drive.google.com/uc?export=view id=1xP8ubY_08bbdK2nVNqQT4ctwLKVwd7Ex " width="100%"/></a>
 <h1 align="center">Hi 👋, I'm Noureddine Ech-chouky</h1>
 <h3 align="center">A passionate Data Scientist from Morocco</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
