@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **noureddine.echchouky@um5r.ac.ma**
 
-- 📄 Resume [look up my skills and experience](shorturl.at/eKNX0)
+- 📄 Resume [Resume](shorturl.at/eKNX0)
 
 <h3 align="left">Reach Me:</h3>
 <p align="left">
