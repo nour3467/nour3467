@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **noureddine.echchouky@um5r.ac.ma**
 
-- 📄 Resume [look up my skills and experience](https://drive.google.com/file/d/1vANnUJCngWb9acdqSnSwMA4gkpb6dEH1/view)
+- 📄 Resume [look up my skills and experience](https://drive.google.com/file/d/1f9Cat3wdod4czlqfEss812bHlDZNfeSy/view?usp=sharing)
 
 <h3 align="left">Reach Me:</h3>
 <p align="left">
