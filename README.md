@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on [wheat-yield-prediction-toolkit](https://github.com/nour3467/wheat-yield-prediction-toolkit))
+- 🔭 I’m currently working on [wheat-yield-prediction-toolkit](https://github.com/nour3467/wheat-yield-prediction-toolkit)
 
 - 🌱 I’m currently learning **Deep Reinforcement learning**
 
