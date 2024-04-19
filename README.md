@@ -2,13 +2,15 @@
 <h3 align="center">Data Scientist | Future Cloud Engineer & MLOps Specialist</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nour3467&label=Profile%20views&color=0e75b6&style=flat" alt="nour3467" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nour3467&theme=dark_lover" alt="nour3467" /></a> </p>
 
 - 🌟 Active Project: [aws-movie-poster-creator](https://github.com/nour3467/aws-movie-poster-creator)
 - 📘 Currently Learning: **AWS CLF-C02 Certification**
 
 - 📫 Connect With Me on LinkedIn: **[LinkedIn](https://www.linkedin.com/in/nour3467)**
 - ⚡ Fun fact **I enjoy lifting and kickboxing**
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nour3467&theme=dark_lover" alt="nour3467" /></a> </p>
 
 <div> <a href="https://www.linkedin.com/in/nour3467" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/nour3467" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
@@ -44,8 +46,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/nour3467"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nour3467" /></a></p><br><br>
 
-<h3 align="left">Stars</h3>
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nour3467&theme=" alt="nour3467" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
@@ -56,5 +56,3 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nour3467&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nour3467&theme=2077" height="180em" />
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=nour3467&theme=github"/>
